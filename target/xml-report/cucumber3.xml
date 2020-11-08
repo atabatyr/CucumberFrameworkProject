@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="90.508">
-<testcase classname="US1000 Google search test" name="TC01 Verify iphone search" time="19.798">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="49.772">
+<testcase classname="US1000 Google search test" name="TC01 Verify iphone search" time="11.068">
 <system-out><![CDATA[Given user is on the google page............................................passed
 And user search for "iphone"................................................passed
 Then verify the result has "iphone".........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="US1000 Google search test" name="TC02 Verify tea pot search" time="23.303">
+<testcase classname="US1000 Google search test" name="TC02 Verify tea pot search" time="9.59">
 <system-out><![CDATA[Given user is on the google page............................................passed
 And user search for "tea pot"...............................................passed
 Then verify the result has "tea pot"........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="US1000 Google search test" name="TC03 Verify flower search" time="20.206">
+<testcase classname="US1000 Google search test" name="TC03 Verify flower search" time="9.096">
 <system-out><![CDATA[Given user is on the google page............................................passed
 And user search for "flower"................................................passed
 Then verify the result has "flower".........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="US1000 Google search test" name="TC04 Verify bmw search" time="12.865">
+<testcase classname="US1000 Google search test" name="TC04 Verify bmw search" time="10.441">
 <system-out><![CDATA[Given user is on the google page............................................passed
 And user search for "bmw"...................................................passed
 Then verify the result has "bmw"............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="US1000 Google search test" name="TC05Verify bmw search" time="13.556">
+<testcase classname="US1000 Google search test" name="TC05Verify bmw search" time="9.205">
 <system-out><![CDATA[Given user is on the google page............................................passed
 And user search for "mercedes"..............................................passed
 Then verify the result has "mercedes".......................................passed

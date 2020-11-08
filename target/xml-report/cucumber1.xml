@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.474">
-<testcase classname="US1001_user_should_add_data" name="TC01_Testing_the_data_tables_web_page" time="19.754">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.162">
+<testcase classname="US1001_user_should_add_data" name="TC01_Testing_the_data_tables_web_page" time="11.853">
 <system-out><![CDATA[Given user is on the datatables page........................................passed
 And user clicks on the new button...........................................passed
 When user enters the firstname..............................................passed
